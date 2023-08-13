@@ -46,7 +46,6 @@ function App() {
         <p>Built with <span role="img" aria-label="heart">❤️</span> by <a href="https://github.com/arudivalentine" target="_blank" rel="noreferrer">Arudi Valentine</a></p>
 
         <div className="flex -mx-6">
-          BsFacebook
           <a href="#" className="mx-3 hover:opacity-80 duration-150">About Me</a> |
           <a href="#" className="mx-3 hover:opacity-80 duration-150">Privacy</a> |
           <a href="#" className="mx-3 hover:opacity-80 duration-150">Contact</a>
