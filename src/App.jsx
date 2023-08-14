@@ -1,5 +1,3 @@
-
-
 function App() {
   return (
     <div className="min-h-screen flex flex-col text-white">
@@ -43,7 +41,7 @@ function App() {
           </div>
       </main>
       <footer className="container mx-auto p-6 flex flex-col md:flex-row items-center justify-between">
-        <p>Built with <span role="img" aria-label="heart">❤️</span> by <a href="https://github.com/arudivalentine" target="_blank" rel="noreferrer">Arudi Valentine</a></p>
+        <p>React with <span role="img" aria-label="heart">❤️</span> by <a href="https://github.com/arudivalentine" target="_blank" rel="noreferrer">Arudi Valentine</a></p>
 
         <div className="flex -mx-6">
           <a href="#" className="mx-3 hover:opacity-80 duration-150 ">About Me</a> |
